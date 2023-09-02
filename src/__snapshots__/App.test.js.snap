@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component Testing Snapshot testing for APP component 1`] = `
+<div
+  className="App"
+>
+  <nav
+    className="navbar bg-dark justify-content-center sticky-top"
+  >
+    <li
+      className="nav-link"
+    >
+      <a
+        className="nav-link"
+        href="/"
+      >
+        Refresh
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/menu"
+        onClick={[Function]}
+      >
+        Sidebar
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/dashboard"
+        onClick={[Function]}
+      >
+        Dashboard
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/projects"
+        onClick={[Function]}
+      >
+        My Projects
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/topics"
+        onClick={[Function]}
+      >
+        My Topics
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/about"
+        onClick={[Function]}
+      >
+        About
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/about-lazy-load"
+        onClick={[Function]}
+      >
+        Lazy Loading
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/contact"
+        onClick={[Function]}
+      >
+        Contact Us
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/login"
+        onClick={[Function]}
+      >
+        Login
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        className="nav-link"
+        href="/logout"
+        onClick={[Function]}
+      >
+        Logout
+      </a>
+    </li>
+  </nav>
+  <h1>
+    Hello
+  </h1>
+  <p>
+    Venkatesh
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    Update
+  </button>
+  <div>
+    <h1
+      style={
+        Object {
+          "margin": 300,
+        }
+      }
+    >
+      💐Welcome to React Routing Crash Course💐
+    </h1>
+  </div>
+</div>
+`;
